@@ -4,19 +4,36 @@
 * {
     box-sizing: border-box;
 }
+
 img {
     width: 198px;
     height: 189px;
 }
-body{
-    background-color: var(--cyan);
-}
-#content{
+
+body {
+    display: flex;
     align-items: center;
-    display: inline-flex;
     flex-direction: column;
-    gap: 60px;
     height: 100vh;
-    justify-content: center;
-    width: 100vw;
+    background-image: url("assets/Colors.gif");
+}
+
+.content {
+    display: flex;
+    width: 50vw;
+    height: 45vh;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    flex-shrink: 0;
+    margin: auto;
+}
+
+.topBar, .bottomBar {
+    display: flex;
+    // flex-direction: row;
+    justify-content: space-between;
+    // width: 100%;
+    align-items: flex-start;
+    align-self: stretch;
 }

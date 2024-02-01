@@ -9,18 +9,28 @@ body {
     text-decoration: none !important;
 }
 
-h1 {
-    color: var(--Key, #000);
-    font-size: 64px;
-    font-weight: 700;
-    line-height: 140%;
-    /* 89.6px */
+a{
+    /*CSS why are you like this*/
+    color: inherit;
 }
 
 p {
-    font-size: 18px;
+    font-size: 18.5px;
     font-style: normal;
-    font-weight: 400;
-    line-height: 140%;
-    /* 25.2px */
+    font-weight: 450;
+    line-height: 100%;
+    /* 18.5px */
+}
+
+.welcome{
+    color: var(--key);
+}
+.email {
+    color: var(--yellow);
+}
+.medium{
+    color: var(--cyan);
+}
+.insta{
+    color: var(--magenta)
 }
