@@ -419,11 +419,11 @@ p {
 }
 
 .email {
-  color: var(--yellow);
+  color: var(--cyan);
 }
 
-.medium {
-  color: var(--cyan);
+.smile {
+  color: var(--yellow);
 }
 
 .insta {
