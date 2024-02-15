@@ -1,0 +1,1 @@
+let toggle=!1;const body=document.body;toggle&&(body.style.backgroundImage="none");
