@@ -20,13 +20,17 @@ body {
 
 .content {
     display: flex;
-    width: 50vw;
+    width: 80vw;
     height: 45vh;
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
     flex-shrink: 0;
     margin: auto;
+    @include sm{
+        width: 50vw;
+    }
+
 }
 
 .topBar, .bottomBar {
