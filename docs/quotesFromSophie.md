@@ -1,0 +1,4 @@
+- I would trust Dirty Napkin with anything. It was great having their help to do branding for The Aristocrats. They're redesigning my face next.
+- If I was a dame in a poodle skirt, I'd say that "I'd let Dirty Napkin spin me around silly and call me a doll" but since I am not, I can only say that it was a pleasure working with them and I could not recommend them more.
+- If Dirty Napkin did surgery as good as they do graphic design, I'd let them do a bypass procedure on me. I don't even need one. Just for the hell of it!
+- Working with Dirty Napkin was nothing short of a waking nightmare
