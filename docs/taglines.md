@@ -2,3 +2,4 @@
 - Sometimes the best ideas are just scribbled onto a Dirty Napkin
 - Making cool sh*t together since 2023
 - We have tactical fun
+- By creatives, for creatives

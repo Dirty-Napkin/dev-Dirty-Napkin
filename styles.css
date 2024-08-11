@@ -351,6 +351,9 @@ body {
       -ms-flex-direction: column;
           flex-direction: column;
   height: 100vh;
+}
+
+#home {
   background-image: url("assets/Colors.gif");
 }
 
