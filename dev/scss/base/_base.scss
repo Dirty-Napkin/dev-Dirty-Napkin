@@ -5,9 +5,13 @@
     box-sizing: border-box;
 }
 
-img {
+.homeLogo {
     width: 198px;
     height: 189px;
+}
+
+.feedbackLogo {
+    width: 100px;
 }
 
 body {
@@ -17,7 +21,7 @@ body {
     height: 100vh;
 }
 
-#home{
+.home{
     background-image: url("assets/Colors.gif");
 }
 
