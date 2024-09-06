@@ -48,3 +48,11 @@ body {
     align-items: flex-start;
     align-self: stretch;
 }
+
+iframe {
+    width: 400px;
+    @include sm {
+        width: 80vw !important;
+        height: 800px;
+    }
+}

@@ -402,6 +402,16 @@ body {
       align-self: stretch;
 }
 
+iframe {
+  width: 400px;
+}
+@media (min-width: 576px) {
+  iframe {
+    width: 80vw !important;
+    height: 800px;
+  }
+}
+
 /* =============
     Typography
 ============= */
