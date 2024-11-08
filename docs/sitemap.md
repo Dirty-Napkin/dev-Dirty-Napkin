@@ -12,5 +12,6 @@
     - Feedback
     - About
         - About Us
+        - Our Vision/Values
         - Our Process
     - Contact
