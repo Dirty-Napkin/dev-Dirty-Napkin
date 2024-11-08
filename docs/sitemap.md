@@ -11,4 +11,6 @@
         - The Lemonade Stand
     - Feedback
     - About
+        - About Us
+        - Our Process
     - Contact
