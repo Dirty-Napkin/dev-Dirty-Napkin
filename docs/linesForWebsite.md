@@ -3,3 +3,4 @@
 - Making cool sh*t together since 2023
 - We have tactical fun
 - By creatives, for creatives
+- We want to be helpful
