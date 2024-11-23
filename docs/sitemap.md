@@ -9,9 +9,9 @@
         - The Window
         - Those Eyes
         - The Lemonade Stand
-    - Feedback
     - About
         - About Us
-        - Our Vision/Values
+        - Our Mission/Vision/Values
         - Our Process
     - Contact
+    - Feedback
