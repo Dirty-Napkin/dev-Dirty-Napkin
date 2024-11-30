@@ -4,3 +4,4 @@
 - We have tactical fun
 - By creatives, for creatives
 - We want to be helpful
+- Messy ideas, daring executions
