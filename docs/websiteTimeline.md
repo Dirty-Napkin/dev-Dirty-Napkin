@@ -14,5 +14,6 @@
 #### If custom site:
 - optimize figma design
     - make sure frame structure is consistent between desktop and mobile
+    - make sure everything is linked to styles
     - identify elements/features that aren't as important
 - code!
