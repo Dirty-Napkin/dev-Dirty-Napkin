@@ -1,6 +1,5 @@
 # Dirty Napkin
-[https://dirtynapkin.netlify.app/](https://dirtynapkin.netlify.app/)
-[https://dirtynapkin.co](https://dirtynapkin.co)
+[https://dirtynapkindev.netlify.app/](https://dirtynapkindev.netlify.app/)
 - All changes should be made on branches, not `main`. Once you are done making your changes, please submit a pull request
 - Repo is structured off of Josh's folder structure, but slightly reconfigured so that it actually works. Happy to discuss
 - I (Noah) configured prepros for myself, feel free to setup codekit and have the config file here (and then you all can work from the same config)
