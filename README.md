@@ -1,6 +1,7 @@
 # Dirty Napkin
 [https://dirtynapkindev.netlify.app/](https://dirtynapkindev.netlify.app/)
 - All changes should be made on branches, not `main`. Once you are done making your changes, please submit a pull request
+- **Changes will not show up immediatly.** Changes will show up on the site linked above *only after* your pull request is approved. Our public site will not be updated until the project is completed
 - Repo is structured off of Josh's folder structure, but slightly reconfigured so that it actually works. Happy to discuss
 - I (Noah) configured prepros for myself, feel free to setup codekit and have the config file here (and then you all can work from the same config)
 - Be sure to fetch and pull from the desktop app (or vscode integration) and create a branch before making changes
