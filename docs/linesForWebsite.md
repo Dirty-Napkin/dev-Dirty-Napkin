@@ -5,3 +5,4 @@
 - By creatives, for creatives
 - We want to be helpful
 - Messy ideas, daring executions
+- Get hype or get out
